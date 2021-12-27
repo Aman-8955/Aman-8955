@@ -1,10 +1,10 @@
-### Hi there 👋
-
+# Hi, I'm Aman Ali! 👋
+## 🚀 About Me
 - 🔭 I’m currently working on myself ...
 - 🌱 I’m currently learning Programming and Coding...
 - 👯 I’m looking to collaborate on anything...
 - 💬 Ask me about Programming,Web-development,Tech-Things etc...
-
-
+## 🧑‍💻 My GitHub Status
 [![Aman's github stats](https://github-readme-stats.vercel.app/api?username=huntgamer&count_private=true&show_icons=true&theme=swift&hide_rank=false)](https://github.com/huntgamer/github-readme-stats)
+## 🛠 Skills
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=huntgamer)](https://github.com/huntgamer/github-readme-stats)
