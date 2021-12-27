@@ -1,5 +1,5 @@
 # Hi, I'm Aman Ali! 👋
-![My banner]( "My Banner")
+![My banner](https://github.com/huntgamer/Assets/blob/main/mybanner.png?raw=true "My Banner")
 ## 🚀 About Me
 - 🔭 I’m currently working on myself ...
 - 🌱 I’m currently learning Programming and Coding...
