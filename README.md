@@ -6,4 +6,5 @@
 - 💬 Ask me about Programming,Web-development,Tech-Things etc...
 
 
-[![Aman's github stats](https://github-readme-stats.vercel.app/api?username=huntgamer&count_private=true&show_icons=true&theme=radical&hide_rank=true)](https://github.com/huntgamer/github-readme-stats)
+[![Aman's github stats](https://github-readme-stats.vercel.app/api?username=huntgamer&count_private=true&show_icons=true&theme=swift&hide_rank=false)](https://github.com/huntgamer/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=huntgamer)](https://github.com/huntgamer/github-readme-stats)
