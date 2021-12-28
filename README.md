@@ -1,7 +1,7 @@
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Aman Ali!</h1>
-<br>
-
-<a href="#"><img width="100%" height="auto" src="https://github.com/huntgamer/Assets/blob/main/4498903.jpg"/></a>
+<p align="center">
+<a href="#"><img align="center" width="60%" src="https://github.com/huntgamer/Assets/blob/main/4498903.jpg"/></a>
+</p>
 
 ## 🚀 About Me
 - 🔭 I’m currently working on myself ...
