@@ -33,7 +33,7 @@
 <br/>
 <br/>
 
-<a href="https://github.com/SubhamRaoniar28/github-readme-activity-graph"><img alt="Subham Raoniar's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=huntgamer&bg_color=white&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=false" /></a>
+<a href="https://github.com/SubhamRaoniar28/github-readme-activity-graph"><img alt="Subham Raoniar's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=huntgamer&bg_color=white&color=1779d4&line=1779d4&point=FFFFFF&hide_border=false" /></a>
  </p>
  
  
