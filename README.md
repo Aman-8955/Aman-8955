@@ -47,8 +47,6 @@
 </p>
 <br>
 
-## ❤ Views and Followers
-<a href="https://github.com/Meghna-DAS/github-profile-views-counter">
-    <img src="https://komarev.com/ghpvc/?username=huntgamer">
-</a>
+## ❤ Followers
+
 <a href="https://github.com/huntgamer?tab=followers"><img src="https://img.shields.io/github/followers/huntgamer?label=Followers&style=social" alt="GitHub Badge"></a>
