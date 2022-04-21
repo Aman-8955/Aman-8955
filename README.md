@@ -10,7 +10,7 @@
 <br/>
 
 <p align="center">
-    <a href="https://github.com/Aman-8955/github-readme-streak-stats">
+    <a href="https://github-readme-streak-stats.herokuapp.com/?user=Aman-8955&hide_border=false&stroke=0000&ring=1F82DD&fire=1F82DD&border=1F82DD&currStreakLabel=1F82DD">
         <img alt="Aman's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=Aman-8955&hide_border=false&stroke=0000&ring=1F82DD&fire=1F82DD&border=1F82DD&currStreakLabel=1F82DD"/>
     </a>
 </p>
