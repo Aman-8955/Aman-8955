@@ -49,4 +49,4 @@
 
 ## ❤ Followers
 
-<a href="https://github.com/Aman-8955?tab=followers"><img src="https://img.shields.io/github/followers/huntgamer?label=Followers&style=social" alt="GitHub Badge"></a>
+<a href="https://github.com/Aman-8955"><img src="https://img.shields.io/github/followers/Aman-8955?label=Followers&style=social" alt="GitHub Badge"></a>
