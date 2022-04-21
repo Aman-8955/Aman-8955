@@ -24,7 +24,7 @@
     </a>
     &nbsp;    &nbsp;    &nbsp;
     <a href="https://github.com/Aman-8955/github-readme-stats">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aman-895"/>
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aman-8955"/>
     </a>
     <br>
     <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
