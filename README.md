@@ -15,27 +15,6 @@
     </a>
 </p>
 <br>
-
-## 🧑‍💻 My GitHub Status
-
-<p align="left">
-    <a href="https://github.com/Aman-8955/github-readme-stats">
-<img src="https://github-readme-stats.vercel.app/api?username=Aman-8955&count_private=true&show_icons=true&hide_rank=false">
-    </a>
-    &nbsp;    &nbsp;    &nbsp;
-    <a href="https://github.com/Aman-8955/github-readme-stats">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aman-8955&langs_count=8"/>
-    </a>
-    <br>
-    <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
-
-
-<br/>
-<br/>
-
-<a href="https://github.com/Aman-8955/github-readme-activity-graph"><img alt="Aman's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=Aman-8955&bg_color=white&color=1779d4&line=1779d4&point=FFFFFF&hide_border=false" /></a>
- </p>
- 
  
 ## ☎️ Connect With Me
 <p align="left">
